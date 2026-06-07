@@ -1,1 +1,1 @@
-# shrine-notes
+# shiori
